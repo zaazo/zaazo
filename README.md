@@ -7,5 +7,5 @@
 
 
 
-<a style="width: 500px;">![zaazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaazo&theme=react&hide_border=true)</a>
+<a style="width: 1000px;">![zaazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaazo&theme=react&hide_border=true)</a>
 

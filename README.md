@@ -5,6 +5,8 @@
 <picture> <img align="right" src="![zazo logo](https://github.com/zaazo/zaazo/assets/99763690/ee9d8923-5196-4958-9ef5-85b15da668b5)" width = 250px></picture>
 
 <br>
+<br>
 
 <a>![zaazo's Stats](https://github-readme-stats.vercel.app/api?username=zaazo&theme=react&show_icons=true&hide_border=true&count_private=true)</a>
+<br>
 <a>![zaazo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaazo&theme=react&hide_border=true)</a>

@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="![Banner GirHub](https://github.com/zaazo/zaazo/assets/99763690/0d93b6c7-0986-4d69-adab-6acd3599eca9)
-"/>
+  ![Banner GirHub](https://github.com/zaazo/zaazo/assets/99763690/5fda7a6a-05f9-4da9-b816-6f1dc0276757)
 </div>
 
 ###

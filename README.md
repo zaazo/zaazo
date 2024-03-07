@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">hey there Im Mohamed 👋🏻</h1>
+<h1 align="center">Hello, Im Mohamed 👋🏻</h1>
 
 ###
 

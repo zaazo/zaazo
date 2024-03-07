@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/Wttddd9"><img src="https://i.ibb.co/6BBppph/Banner-Gir-Hub.jpg" alt="Banner-Gir-Hub" width="1000" height="550" border="0"></a>
+  <a href="https://ibb.co/Wttddd9"><img src="https://i.ibb.co/6BBppph/Banner-Gir-Hub.jpg" alt="Banner-Gir-Hub" width="1000" height="525" border="0"></a>
 </div>
 
 ###

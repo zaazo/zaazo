@@ -1,3 +1,10 @@
+
+###
+
+<h1 align="center">hey there Im Mohamed 👋🏻</h1>
+
+###
+
 <div align="center">
   <a href="https://ibb.co/Wttddd9"><img src="https://i.ibb.co/6BBppph/Banner-Gir-Hub.jpg" alt="Banner-Gir-Hub" width="1000" height="450" border="0"></a>
 </div>
@@ -15,12 +22,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 

@@ -50,7 +50,7 @@
 
 ###
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=zaazo&theme=react&show_icons=true&hide_border=true&count_private=true" alt="zaazo's Stats" width="400" height="190"></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=zaazo&theme=react&show_icons=true&hide_border=true&count_private=true" alt="zaazo's Stats" width="400" height="150"></a>
 <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=zaazo&theme=react&hide_border=true" alt="zaazo's Streak" width="400" height="200"></a>
 
 ###

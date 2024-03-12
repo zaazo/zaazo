@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Know more about Me</h3>
 
 ###
 

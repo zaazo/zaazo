@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Mohamed from Lleida, Spain<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Html, CSS, Js, and Python <br>- ⚡ In my free time I design landing pages</p>
+<p align="left">I'm Mohamed from Lleida, Spain<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning HTML, CSS, Js, and Python <br>- ⚡ In my free time I design landing pages</p>
 
 ###
 

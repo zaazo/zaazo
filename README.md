@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-<img src="<a href="https://ibb.co/YXzpWkY"><img src="https://i.ibb.co/PM7wYh3/banner-github.png" alt="banner-github" border="0"></a>" width="100%" />
+<a href="https://ibb.co/YXzpWkY"><img src="https://i.ibb.co/PM7wYh3/banner-github.png" alt="banner-github" border="0"></a>
 
 <h1 align="center">Hello 👋, I'm Mohamed</h1>
 

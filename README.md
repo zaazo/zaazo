@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="<a href="https://ibb.co/YXzpWkY"><img src="https://i.ibb.co/PM7wYh3/banner-github.png" alt="banner-github" border="0"></a>" width="100%" />
 
 <h1 align="center">Hello 👋, I'm Mohamed</h1>
 

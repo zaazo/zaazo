@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/PM7wYh3/banner-github.png" alt="banner-github" width="100%" />
 </p>
 
-<h1 align="center">Hello 👋, I'm Mohamed</h1>
+<h1 align="center">Hello 👋, I'm <b>zazo<b/></h1>
 
 <!-- Social Media Icons (Material Design Style) -->
 <p align="center">

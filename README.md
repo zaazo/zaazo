@@ -28,7 +28,7 @@
 <p align="center">🔭 I’m currently working on <strong>my portfolio</strong></p>
 <p align="center">🌱 I’m learning <strong>Next JS, React, Tailwind, HTML, CSS</strong></p>
 <p align="center">📫 You can reach me at: <a href="mailto:zazou.personal@gmail.com">zazou.personal@gmail.com</a></p>
-<p align="center">📝 I write articles on <a href="https://www.linkedin.com/in/zazo/">LinkedIn</a></p>
+<p align="center">📝 I write articles on <a href="https://www.x.com/zaaazo_">X</a></p>
 
 ---
 

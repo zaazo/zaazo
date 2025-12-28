@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/PutYourDirectLinkHere.png" width="100%" alt="Zazo Banner" />
+  <img src="https://imgur.com/a/tnuqeu1" width="100%" alt="Zazo Banner" />
 </div>
 
 <br />

@@ -1,59 +1,83 @@
 <div align="center">
-  <img src="https://i.imgur.com/VDIfGQd.png" width="100%" alt="Zazo Banner" style="border-radius: 12px;" />
-</div>
-
-<br /><br />
-
-<div align="center">
-  <h1 style="font-size: 2.5em; margin-bottom: 0;">Building Websites That Actually Work</h1>
-  
-  <br />
-
-  <p style="font-size: 1.2em; color: #555; max-width: 600px; line-height: 1.6;">
-    <b>Hi, I'm Zazo.</b> <br/>
-    I design and develop high-converting websites that elevate your brand and drive results.
-    Specializing in <b>Next.js</b>, <b>Tailwind CSS</b>, and <b>Conversion Design</b>.
-  </p>
-
-  <br />
-
-  <p>
-    <a href="mailto:zazou.personal@gmail.com" 
-       style="
-         background-color: #0066FF; 
-         color: white; 
-         padding: 12px 35px; 
-         border-radius: 50px; 
-         text-decoration: none; 
-         font-weight: bold; 
-         font-size: 1.1em; 
-         border-bottom: 4px solid #004bbd; 
-         display: inline-block;
-         margin: 5px;">
-       Book a Free Consultation
-    </a>
-  </p>
-    <p style="color: #888; font-size: 0.8em; margin-top: 5px;">⚡️ 2 spots available for new projects</p>
-</div>
-
-<br /><br />
-
-<div align="center">
-  <a href="https://twitter.com/zaaazo_" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X" />
-  </a>
-  <a href="https://linkedin.com/in/zazo" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zazou.personal@gmail.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
-  </a>
-</div>
-
-<br /><br />
-
-<div align="center" style="color: #999; font-size: 0.9em; letter-spacing: 1px;">
-  NEXT.JS &nbsp;•&nbsp; REACT &nbsp;•&nbsp; TAILWIND &nbsp;•&nbsp; FIGMA &nbsp;•&nbsp; PYTHON
+  <img src="https://i.imgur.com/VDIfGQd.png" width="100%" alt="Zazo Banner" style="border-radius: 10px;" />
 </div>
 
 <br />
+
+# Hi 👋, I'm Mohamed
+
+<h3 align="left">
+  I build websites that <span style="color: #0066FF;">actually work</span>.
+</h3>
+<p align="left">
+  Designing and developing high-converting digital experiences with <b>Next.js</b>, <b>React</b>, and <b>Tailwind</b>.
+</p>
+
+<p align="left">
+  <a href="mailto:zazou.personal@gmail.com" target="_blank" style="
+    background-color: #0066FF; 
+    color: white; 
+    padding: 10px 25px; 
+    border-radius: 50px; 
+    text-decoration: none; 
+    font-weight: bold; 
+    font-size: 16px; 
+    border-bottom: 4px solid #004bbd;
+    display: inline-block;">
+    Book a Free Consultation
+  </a>
+  <br />
+  <sub style="color: gray;">⚡️ 2 spots available</sub>
+</p>
+
+<br />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zaazo&label=Profile views&color=0e75b6&style=flat-square" alt="zaazo" />
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/zaazo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zaazo" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/zazo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zazo" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/zazo.dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zazo.dev" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/zazo_dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zazo_dev" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+  </a>
+</p>

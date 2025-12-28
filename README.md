@@ -7,27 +7,28 @@
 # Hi 👋, I'm Mohamed
 
 <h3 align="left">
-  I build websites that <span style="color: #0066FF;">actually work</span>.
+  Frontend Developer especializado en <span style="color: #0066FF;">Next.js, TypeScript y Tailwind CSS</span>.
 </h3>
+
 <p align="left">
-  Designing and developing high-converting digital experiences with <b>Next.js</b>, <b>React</b>, and <b>Tailwind</b>.
+  Me dedico a crear páginas y aplicaciones web que van rápido, se ven bien y no dan problemas. Me gusta tenerlo todo simple y claro: entender la idea, montarla bien y dejarla lista para que funcione sin dolores de cabeza.
+  <br /><br />
+  Soy estudiante de <b>Ingeniería Informática</b> y compagino la uni con proyectos freelance. Me adapto rápido, aprendo lo que haga falta y busco siempre mejorar lo que hago. Si un proyecto necesita orden, velocidad y alguien que se tome el trabajo en serio, ahí es donde encajo.
 </p>
 
 <p align="left">
   <a href="mailto:zazou.personal@gmail.com" target="_blank" style="
     background-color: #0066FF; 
     color: white; 
-    padding: 10px 25px; 
+    padding: 10px 30px; 
     border-radius: 50px; 
     text-decoration: none; 
     font-weight: bold; 
     font-size: 16px; 
     border-bottom: 4px solid #004bbd;
     display: inline-block;">
-    Book a Free Consultation
+    Hablemos
   </a>
-  <br />
-  <sub style="color: gray;">⚡️ 2 spots available</sub>
 </p>
 
 <br />
